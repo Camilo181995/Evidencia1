@@ -11,7 +11,7 @@ namespace DemoViews
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new control();
         }
 
         protected override void OnStart()

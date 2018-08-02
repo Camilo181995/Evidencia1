@@ -13,7 +13,7 @@
 namespace DemoViews {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/vivelabtunja25/Projects/DemoViews/DemoViews/MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/vivelabtunja25/Desktop/Evidencia1/DemoViews/DemoViews/MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

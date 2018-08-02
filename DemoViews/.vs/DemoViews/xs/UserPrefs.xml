@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{A2627A45-95D1-4D23-A9C0-91DA3DA149E1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DemoViews.Android/obj/Debug/MainPage.xaml.g.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoViews/control.xaml.cs">
     <Files>
-      <File FileName="DemoViews/MainPage.xaml" Line="40" Column="38" />
-      <File FileName="DemoViews/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="DemoViews.Android/obj/Debug/MainPage.xaml.g.cs" Line="22" Column="1" />
+      <File FileName="DemoViews/control.xaml" Line="31" Column="9" />
+      <File FileName="DemoViews/control.xaml.cs" Line="19" Column="10" />
+      <File FileName="DemoViews/App.xaml.cs" Line="15" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.DemoViews.iOS FirstBuild="True" />

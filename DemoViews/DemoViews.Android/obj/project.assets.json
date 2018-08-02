@@ -736,11 +736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vivelabtunja25/Projects/DemoViews/DemoViews.Android/DemoViews.Android.csproj",
+      "projectUniqueName": "/Users/vivelabtunja25/Desktop/Evidencia1/DemoViews/DemoViews.Android/DemoViews.Android.csproj",
       "projectName": "DemoViews.Android",
-      "projectPath": "/Users/vivelabtunja25/Projects/DemoViews/DemoViews.Android/DemoViews.Android.csproj",
+      "projectPath": "/Users/vivelabtunja25/Desktop/Evidencia1/DemoViews/DemoViews.Android/DemoViews.Android.csproj",
       "packagesPath": "/Users/vivelabtunja25/.nuget/packages/",
-      "outputPath": "/Users/vivelabtunja25/Projects/DemoViews/DemoViews.Android/obj",
+      "outputPath": "/Users/vivelabtunja25/Desktop/Evidencia1/DemoViews/DemoViews.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vivelabtunja25/.config/NuGet/NuGet.Config"

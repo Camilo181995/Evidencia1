@@ -654,11 +654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vivelabtunja25/Projects/DemoViews/DemoViews.iOS/DemoViews.iOS.csproj",
+      "projectUniqueName": "/Users/vivelabtunja25/Desktop/Evidencia1/DemoViews/DemoViews.iOS/DemoViews.iOS.csproj",
       "projectName": "DemoViews.iOS",
-      "projectPath": "/Users/vivelabtunja25/Projects/DemoViews/DemoViews.iOS/DemoViews.iOS.csproj",
+      "projectPath": "/Users/vivelabtunja25/Desktop/Evidencia1/DemoViews/DemoViews.iOS/DemoViews.iOS.csproj",
       "packagesPath": "/Users/vivelabtunja25/.nuget/packages/",
-      "outputPath": "/Users/vivelabtunja25/Projects/DemoViews/DemoViews.iOS/obj",
+      "outputPath": "/Users/vivelabtunja25/Desktop/Evidencia1/DemoViews/DemoViews.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vivelabtunja25/.config/NuGet/NuGet.Config"
