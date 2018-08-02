@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:DemoViews" x:Class="DemoViews.MainPage">
+<ScrollView>
+    <StackLayout>
+        <Image Source="login.png"
+               Aspect="Fill"/>
+
+        <Label HorizontalOptions="Center" 
+               Text="Xamarin Forms"
+               TextColor="Aqua"
+               VerticalTextAlignment="Center"
+               HorizontalTextAlignment="End"
+               BackgroundColor="Blue"
+               WidthRequest="200"/>
+
+       <Label VerticalOptions="Center"
+              HorizontalOptions="Center"
+              Text="Xamarin Desarrolla aplicaciones moviles multi plataforma"
+              TextColor="Aqua"
+              VerticalTextAlignment="End"
+              BackgroundColor="Blue"
+              WidthRequest="200"
+              HeightRequest="300"
+              LineBreakMode="HeadTruncation"
+            />
+      <Label VerticalOptions="Center"
+             BackgroundColor="BlueViolet"
+             HorizontalTextAlignment="Center"
+             >
+             <Label.FormattedText>
+            <FormattedString>
+
+                <Span Text="Xamarin"
+                      FontAttributes="Bold"
+                      FontSize="Large"
+                      ForegroundColor="White"
+                      />
+                <Span Text="Nativo"
+                      FontAttributes="Bold"
+                      FontSize="Large"
+                />
+
+            </FormattedString>    
+           </Label.FormattedText>
+            </Label>
+    </StackLayout>
+        
+        </ScrollView>
+</ContentPage>
